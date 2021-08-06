@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\Logproject\Logproject\bin\Debug\Logproject.exe.config
+C:\Users\User\Source\Repos\Logproject\Logproject\bin\Debug\Logproject.exe
+C:\Users\User\Source\Repos\Logproject\Logproject\bin\Debug\Logproject.pdb
+C:\Users\User\Source\Repos\Logproject\Logproject\bin\Debug\log4net.dll
+C:\Users\User\Source\Repos\Logproject\Logproject\bin\Debug\log4net.xml
+C:\Users\User\Source\Repos\Logproject\Logproject\obj\Debug\Logproject.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Logproject\Logproject\obj\Debug\Logproject.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Logproject\Logproject\obj\Debug\Logproject.csproj.CopyComplete
+C:\Users\User\Source\Repos\Logproject\Logproject\obj\Debug\Logproject.exe
+C:\Users\User\Source\Repos\Logproject\Logproject\obj\Debug\Logproject.pdb
